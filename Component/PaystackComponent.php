@@ -24,7 +24,7 @@ class PaystackComponent extends Component
     {
       //parent::__construct($collection, $settings);
       $this->http = new Client([
-      "headers" => ["authorization" => "Bearer sk_test_a5f08ca803dfffd53a521bfda552684c2a795539"]
+      "headers" => ["authorization" => "Bearer SECRET_KEY"]
     ]);
     }
 
