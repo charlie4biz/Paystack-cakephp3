@@ -29,7 +29,7 @@ git clone https://github.com/charlie4biz/Paystack-cakephp3.git
 ```
 
 ## Usage
-First input your `SECRET_KEY` from [paystack](http://paystack.co/) in the constructor function of PaystackComponent.php
+First input your `SECRET_KEY` from [paystack](https://paystack.com/) in the constructor function of PaystackComponent.php
 ```
 $this->http = new Client([
 "headers" => ["authorization" => "Bearer SECRET_KEY"]
