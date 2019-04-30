@@ -10,9 +10,9 @@ Installation is straight forward. Simply download/clone the component file and i
 <li>Rename the folder you just copied to postage</li>
 </ul>
 
-#Introduction
+# Introduction
 
-#Features
+# Features
 
-#Support
-You can join the cakephp3 IRC channel support cause my support is limited. email: charlie4biz@gmail.com
+# Support
+You can join the cakephp3 IRC channel support cause my support is limited.
